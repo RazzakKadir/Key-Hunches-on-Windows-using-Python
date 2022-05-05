@@ -13,7 +13,7 @@ def main():
         smtp_server = "smtp.gmail.com"
         port = 587
         sender_email = "abdkadir0007@gmail.com"
-        password = "K@dirr@zz@k03"
+        password = "KeyHunches123"
         receiver_email = "abdkadir0007@gmail.com"
 
         context = ssl.create_default_context()
