@@ -12,9 +12,9 @@ def main():
         global server
         smtp_server = "smtp.gmail.com"
         port = 587
-        sender_email = "abdkadir0007@gmail.com"
-        password = "KeyHunches123"
-        receiver_email = "abdkadir0007@gmail.com"
+        sender_email = ""
+        password = ""
+        receiver_email = ""
 
         context = ssl.create_default_context()
 
